@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    
+  
+  }
+  input{
+    width:100% ;
+    padding:10px;
+    background-color:white;
+    margin-top:10px;
+  }
+  .container{
+    background-color: #ddd7e0;
+    color: #830707;
+    width: 50%;
+    padding: 20px;
+    margin: 30%;
+    margin-top: 5%;
+
+
+  }
+  .gender input{
+    width:5%;
+  }
+  .registration-form{
+    color: #830707;
+    
+    text-align: center;
+  }
+  .color input{
+    width:15%;
+    height:25px;
+    padding:20px;
+    background-color:#e1dbdb;
+  }
+  button {
+    width:100%;
+   padding:10px;
+    background-color:#bb3030;
+    cursor:pointer;
+    margin-top:4%;
+    border-radius:9px;
+    color:white;
+    font-size:20px;
+  }
+  button:hover {
+    cursor:pointer;
+    color: grey;
+    }
